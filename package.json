@@ -42,7 +42,8 @@
     "react-slick": "^0.28.1",
     "styled-components": "5.3.0",
     "styled-icons": "^10.22.0",
-    "styled-media-query": "^2.1.2"
+    "styled-media-query": "^2.1.2",
+    "victory": "^36.6.11"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
