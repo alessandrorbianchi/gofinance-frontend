@@ -45,3 +45,5 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
+## Atualizar o node quanto a versão caso der erro ao executar a aplicação
+- nvm install v16.18.1
